@@ -24,4 +24,4 @@ For one of the scenarios, a constraint of 80% of the inspectors were placed on t
 ![alt tag](https://cloud.githubusercontent.com/assets/11237613/17190075/789d32e6-5412-11e6-86eb-4008a6dd7fd9.PNG)
 
 
-
+The results show that categories at the tails of the distribution are the most important categories for assigning inspectors. 
