@@ -21,6 +21,7 @@ Where ART is the average response time, M is the mean age of complaint for each 
 For one of the scenarios, a constraint of 80% of the inspectors were placed on the first category [0 to 40 days] and 20% on the last category [250 to 310 days]. An additional constraint of a maximum of 40 days was also placed on the equation. The reason is that the city has a target of inspecting B complaints within 40 days, and the age of the oldest complaints could not be allowed to grow indefinately. 
 
 #Results
-![alt tag](https://cloud.githubusercontent.com/assets/11237613/17189920/c76bc8b6-5411-11e6-8653-a0747d128a6d.PNG)
+![alt tag](https://cloud.githubusercontent.com/assets/11237613/17190075/789d32e6-5412-11e6-86eb-4008a6dd7fd9.PNG)
+
 
 
