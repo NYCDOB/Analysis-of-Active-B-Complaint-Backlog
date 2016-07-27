@@ -13,7 +13,7 @@ Linear programming was determined to be best method to optimize results. LP can 
 
 The first step in linear programming modelling is to devise an equation that is to be optimized. For this anslysis, here is the equation used:
 
-ART = M1*R1 + M2*R2 + M3*R3 + M4*R4 + M5*R5 + M6*R6
+ART = M1 * R1 + M2*R2 + M3*R3 + M4*R4 + M5*R5 + M6*R6
 
 Where ART is the average response time, M is the mean age of complaint for each category [0 to 40 days, 40 to 100, 100 to 150, 150 to 200, 200 to 250, 250 to 310], and R is the number of inspectors to be assigned to each category. 
 
