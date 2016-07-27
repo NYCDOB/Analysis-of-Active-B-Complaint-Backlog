@@ -21,6 +21,6 @@ Where ART is the average response time, M is the mean age of complaint for each 
 For one of the scenarios, a constraint of 80% inspectors were placed on the first category [0 to 40 days] and 20% on the last category [250 to 310 days]. An additional constraint of a maximum of 40 days was also placed on the equation. The reason for these constraints is that the city has a target of inspecting B complaints within 40 days, and the age of the oldest complaints could not be allowed to grow indefinately. 
 
 #Results
-![alt tag](https://cloud.githubusercontent.com/assets/11237613/17190314/73a1ff28-5413-11e6-9f00-ee54e220af20.PNG)
+![alt tag](https://cloud.githubusercontent.com/assets/11237613/17190557/524c2a8c-5414-11e6-8ee8-f0dc9bd2bfb5.PNG)
 
 The results show that categories at the tails of the distribution are the most important categories for assigning inspectors. If the inspectors for each category are assigned appropriately, the Department of Buildings can reach the objective of inspecting all complaints with an average of 40 days for the month.
