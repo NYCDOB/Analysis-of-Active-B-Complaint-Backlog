@@ -22,15 +22,5 @@ For one of the scenarios, a constraint of 80% of the inspectors were placed on t
 
 #Results
 
-	Buckets	Freq	Mean	Pct from each bucket	# of Proposed Responses	Responses * Mean	Avg Time to Respond
-1	(0,40]	4102	13.8	78.01%	3200	44160	39.991074
-2	(40,100]	2954	70.52	54.94%	1623	114453.96	
-3	(100,150]	1875	122.31	0.00%	0	0	
-4	(150,200]	1540	174.73	0.00%	0	0	
-5	(200,250]	1074	223.49	12.01%	129	28830.21	
-6	(250,310]	241	260.65	19.92%	48	12511.2	
-Total		11786			5000	199955.37	
-
-
 
 
